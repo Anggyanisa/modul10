@@ -1,8 +1,5 @@
 # Anjungan Tunai Mandiri Java Program
 
-![1](https://github.com/nurkumalabudif/bank/blob/master/1.PNG)
-![2](https://github.com/nurkumalabudif/bank/blob/master/2.PNG)
-![3](https://github.com/nurkumalabudif/bank/blob/master/3.PNG)
-![4](https://github.com/nurkumalabudif/bank/blob/master/4.PNG)
-![5](https://github.com/nurkumalabudif/bank/blob/master/5.PNG)
-![6](https://github.com/nurkumalabudif/bank/blob/master/6.PNG)
+![screenshot_1](https://cloud.githubusercontent.com/assets/22116905/22766499/68552908-eea8-11e6-8642-22e80384fcb7.png)
+![screenshot_2](https://cloud.githubusercontent.com/assets/22116905/22766500/6858af10-eea8-11e6-9a73-d175ca749722.png)
+![screenshot_3](https://cloud.githubusercontent.com/assets/22116905/22766501/685dddaa-eea8-11e6-8772-a5a0cbd8b0a0.png)
